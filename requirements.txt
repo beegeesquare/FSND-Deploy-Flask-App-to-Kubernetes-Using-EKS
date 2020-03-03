@@ -1,5 +1,5 @@
 pyjwt
 flask
 gunicorn
-pytest
+pytest<5
 typing
