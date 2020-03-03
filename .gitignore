@@ -26,3 +26,6 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+# Ignore ci-cd .yml
+ci-cd-codepipeline.cfn.yml
