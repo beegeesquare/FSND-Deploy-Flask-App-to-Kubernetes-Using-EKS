@@ -30,4 +30,3 @@ htmlcov/
 # Ignore ci-cd .yml
 ci-cd-codepipeline.cfn.yml
 
-# Ignore anything else
